@@ -10,8 +10,8 @@ public class SumaDosNumeros {
         //[Nombre-clase-API-JDK:Scanner] [Nombre-variable] [=] [Nombre-variable(tipo de entrada de datos)]
         Scanner tecladin = new Scanner(System.in);
         int num1,num2,respuesta;
-        System.out.println("Dame el numero 1"); //carpinteria = TUNEAR
         
+        System.out.println("Dame el numero 1"); //carpinteria = TUNEAR
        num1= tecladin.nextInt(); //ENTRADA
        System.out.println("Dame el segundo numero"); //carpinteria = TUNEAR
        num2= tecladin.nextInt(); //ENTRADA
@@ -26,5 +26,14 @@ public class SumaDosNumeros {
 
 /**
  * RUN:
- * 
+ * run:
+Dame el numero 1
+2
+Dame el segundo numero
+100
+La respuesta es: 
+102
+
+BUILD SUCCESSFUL (total time: 11 seconds)
+
  */
