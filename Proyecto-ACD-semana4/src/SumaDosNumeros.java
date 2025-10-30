@@ -18,7 +18,6 @@ public class SumaDosNumeros {
        respuesta = num1 + num2;
         System.out.println("La respuesta es: ");
         System.out.println(respuesta);
-        
         //sentencias para escryutddtrdyfytfdytdtd: "Sout"+ TAB
         System.out.println("");
     }
