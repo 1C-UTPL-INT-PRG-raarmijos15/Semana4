@@ -19,7 +19,7 @@ public class SumaDosNumeros {
         System.out.println("La respuesta es: ");
         System.out.println(respuesta);
         
-        //sentencias para escritura de resultados: "Sout"+ TAB
+        //sentencias para escryutddtrdyfytfdytdtd: "Sout"+ TAB
         System.out.println("");
     }
 }
