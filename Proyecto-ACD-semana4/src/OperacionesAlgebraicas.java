@@ -22,6 +22,11 @@ public class OperacionesAlgebraicas {
                             num1, 
                             "es:",
                             respuesta);
+        
+        System.out.print("DEME EL NUMERO ENTERO");
+        num2 = tecladito.nextInt();
+        respuesta = Math.pow(num1, num2);
+        System.out.println(num1 + " elevado a la " + num2 + " potencia es: " +respuesta);
         /**
          * RUN
          * 
